@@ -1,15 +1,25 @@
-a. // MÅL: Räkna ut slutbetyget utifrån provresultat och inlämnade projekt.
+// MÅL: Räkna ut slutbetyget utifrån provresultat och inlämnade projekt.
 
-b. // INPUTS: Vilka variabler som kommer till funktionen och vilken typ de
+// INPUTS: Vilka variabler som kommer till funktionen och vilken typ de
 
- positivt heltal.
-c. // RETURN: Vad ska skickas tillbaka efter beräkning eller behandling av
 
-inputs och vilken typ har den – tex. result: decimaltal.
+// RETURN: Vad ska skickas tillbaka efter beräkning eller behandling av
 
-d. // STEG 1: Beskriv nu i tur och ordning (STEG 2, osv.) hur koden logiskt ska
-fungera för att lösa uppgiften - tänk som ett bakrecept – och gör det
-tydligt. Spara allt i GitHub, rotera driver och gå vidare med nästa uppgift!
+ // STEG 1: Beskriv nu i tur och ordning (STEG 2, osv.) hur koden logiskt ska
 
 
 //
+
+// mål få ut ett hälsning fras med ett utvalt namn iunti
+// input//string med namn
+//output string med namnet
+
+//steg1: skapa en function med input namn 
+//steg2: return en hälsnings fras där det finns plats för namnet (placeholder)
+//steg 3: 
+
+return `Hello, ${name} how are you doing today?`;
+
+
+//
+
